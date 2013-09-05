@@ -1,0 +1,4 @@
+collection[:jsonPath],fieldID,-,-,-,-,-,-,salesRep,salesAM,salesOpsRep,salesOpsAM,resellerRep,dataAnalyst,executive,sfdc,sysAdmin,distributorRep,channelPartnerAdmin
+Organization,CustomerHealth,,,,,,,RW,RW,RW,RW,RW,RW,RW,,,RW,
+Organization,Lastupdatedhealthdate,,,,,,,RW,RW,RW,RW,RW,RW,RW,,,RW,
+Organization,Healthreasoncode,,,,,,,RW,RW,RW,RW,RW,RW,RW,,,RW,

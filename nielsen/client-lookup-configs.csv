@@ -1,0 +1,3 @@
+Model,Property Path,Collection,Filter,State Attribute,Value Type
+core.contact,extensions.tenant.CustomerHealth,app.lookups,{"group":"CustomerHealth"},,
+core.contact,extensions.tenant.Healthreasoncode,app.lookups,{"group":"Healthreasoncode"},,

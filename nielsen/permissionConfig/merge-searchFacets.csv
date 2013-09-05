@@ -1,0 +1,2 @@
+Object Name,Search Facet Name,Attribute Name map,Search Facet Type,salesRep,salesAM,salesOpsRep,salesOpsAM,resellerRep,dataAnalyst,executive,sfdc,sysAdmin,distributorRep,channelPartnerAdmin
+Contacts,CUSTOMERHEALTH,CustomerHealth,List,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y 

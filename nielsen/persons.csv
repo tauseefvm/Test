@@ -1,0 +1,45 @@
+LoadID,Subset,FirstName,LastName,JobTitle,Role,SuperUser,LoadID:Organizations:Company,Department,ContactNumbers:Business,ContactNumbers:Home,ContactNumbers:Mobile,ContactNumbers:Fax,OnlineAddresses:PrimaryEmail,LoadID:Memberships:Membership,UIProfile,Address1@Addresses:Office,Address2@Addresses:Office,City@Addresses:Office,State@Addresses:Office,Country@Addresses:Office,Zip@Addresses:Office,LoadID:Persons:Manager,LoadID:Persons:Assistant,EXT:doNotMail,DELL TXT:preferredLanguage
+maria.gomez@nielsen.com,small,Maria,Gomez,Sales Operations Account Manager,,,"nielsen",,213-614-2172,,,,maria.gomez@nielsen.com,maria.gomez@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+vlad.subotin@nielsen.com,small,Vlad,Subotin,Channel Account Manager,,,"nielsen",,213-614-2172,,,,vlad.subotin@nielsen.com,vlad.subotin@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+antonio.russo@nielsen.com,small,Antonio,Russo,Channel Sales Rep,,,"nielsen",,213-614-2172,,,,antonio.russo@nielsen.com,antonio.russo@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+shannon.murphy@nielsen.com,small,Shannon,Murphy,Account Manager,,,"nielsen",,213-614-2172,,,,shannon.murphy@nielsen.com,shannon.murphy@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+debbie.kim@nielsen.com,small,Debbie,Kim,Administrator,,,"nielsen",,213-614-2172,,,,debbie.kim@nielsen.com,debbie.kim@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+lisa.rogers@nielsen.com,small,Lisa,Rogers,Channel Administrator,,,"nielsen",,213-614-2172,,,,lisa.rogers@nielsen.com,lisa.rogers@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+bruce.lewis@nielsen.com,small,Bruce,Lewis,System Administrator,,YES,"nielsen",,213-614-2172,,,,bruce.lewis@nielsen.com,bruce.lewis@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+ann.beebe@nielsen.com,small,Ann,Beebe,director,,,"nielsen",,213-614-2172,,,,ann.beebe@nielsen.com,ann.beebe@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+erin.hagens@nielsen.com,small,Erin,Hagens,Sales Account Manager,,,"nielsen",,213-614-2172,,,,erin.hagens@nielsen.com,erin.hagens@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+jerry.lee@nielsen.com,small,Jerry,Lee,Sales Rep,,,"nielsen",,213-614-2172,,,,jerry.lee@nielsen.com,jerry.lee@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+betty.haines@nielsen.com,small,Betty,Haines,Sales Rep,,,"nielsen",,213-614-2172,,,,betty.haines@nielsen.com,betty.haines@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+bill.malone@nielsen.com,small,Bill,Malone,Sales Operations Account Manager,,,"nielsen",,213-614-2172,,,,bill.malone@nielsen.com,bill.malone@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+bob.gage@nielsen.com,small,Bob,Gage,Sales Operations Account Manager,,,"nielsen",,213-614-2172,,,,bob.gage@nielsen.com,bob.gage@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+betty.johnson@nielsen.com,small,Betty,Johnson,Sales Rep,,,"nielsen",,213-614-2172,,,,betty.johnson@nielsen.com,betty.johnson@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+ryan.thompson@nielsen.com,small,Ryan,Thompson,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,ryan.thompson@nielsen.com,ryan.thompson@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+wesley.teague@nielsen.com,small,Wesley,Teague,Sales Rep,,,"nielsen",,213-614-2172,,,,wesley.teague@nielsen.com,wesley.teague@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+franklin.vick@nielsen.com,small,Franklin,Vick,Sales Rep,,,"nielsen",,703-882-7474,,,,franklin.vick@nielsen.com,franklin.vick@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+marcia.walsh@nielsen.com,small,Marcia,Walsh,Sales Rep,,,"nielsen",,616-808-9233,,,,marcia.walsh@nielsen.com,marcia.walsh@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+dwight.monroe@nielsen.com,small,Dwight,Monroe,Sales Rep,,,"nielsen",,845-875-0155,,,,dwight.monroe@nielsen.com,dwight.monroe@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+marian.solomon@nielsen.com,small,Marian,Solomon,Sales Rep,,,"nielsen",,325-315-3634,,,,marian.solomon@nielsen.com,marian.solomon@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+eric.steele@nielsen.com,small,Eric,Steele,Sales Rep,,,"nielsen",,414-755-5016,,,,eric.steele@nielsen.com,eric.steele@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+alex.may@nielsen.com,small,Alex,May,Sales Rep,,,"nielsen",,541-663-1552,,,,alex.may@nielsen.com,alex.may@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+claire.gallagher@nielsen.com,small,Claire,Gallagher,Sales Rep,,,"nielsen",,270-749-8997,,,,claire.gallagher@nielsen.com,claire.gallagher@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+andrew.benson@nielsen.com,small,Andrew,Benson,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,andrew.benson@nielsen.com,andrew.benson@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+barbara.hobbs@nielsen.com,small,Barbara,Hobbs,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,barbara.hobbs@nielsen.com,barbara.hobbs@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+crissy.smith@nielsen.com,small,Crissy,Smith,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,crissy.smith@nielsen.com,crissy.smith@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+jodi.markham@nielsen.com,small,Jodi,Markham,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,jodi.markham@nielsen.com,jodi.markham@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+max.limmer@nielsen.com,small,Max,Limmer,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,max.limmer@nielsen.com,max.limmer@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+harriett.mayson@nielsen.com,small,Harriet,Mayson,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,harriett.mayson@nielsen.com,harriett.mayson@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+joni.fray@nielsen.com,small,Joni,Fray,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,joni.fray@nielsen.com,joni.fray@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+paul.grass@nielsen.com,small,Paul,Grass,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,paul.grass@nielsen.com,paul.grass@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+lincoln.richards@nielsen.com,small,Lincoln,Richards,Sales Rep,,,"nielsen",,213-614-2172,,,,lincoln.richards@nielsen.com,lincoln.richards@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+renee.lee@nielsen.com,small,Renee,Lee,Sales Rep,,,"nielsen",,213-614-2172,,,,renee.lee@nielsen.com,renee.lee@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+dollie.redrick@nielsen.com,small,Dollie,Redrick,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,dollie.redrick@nielsen.com,dollie.redrick@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+ella.prouty@nielsen.com,small,Ella,Prouty,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,ella.prouty@nielsen.com,ella.prouty@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+glenn.ho@nielsen.com,small,Glenn,Ho,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,glenn.ho@nielsen.com,glenn.ho@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+guy.siegle@nielsen.com,small,Guy,Siegle,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,guy.siegle@nielsen.com,guy.siegle@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+jesse.bacca@nielsen.com,small,Jessa,Bacca,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,jesse.bacca@nielsen.com,jesse.bacca@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+kurt.mose@nielsen.com,small,Kurt,Mose,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,kurt.mose@nielsen.com,kurt.mose@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+tia.krach@nielsen.com,small,Tia,Krach,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,tia.krach@nielsen.com,tia.krach@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+william.still@nielsen.com,small,William,Still,Sales Operations Rep,,,"nielsen",,213-614-2172,,,,william.still@nielsen.com,william.still@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus
+bill.moor@nielsen.com,small,Bill,Moor,Data Analyst,,,"nielsen",,555-0175,,,,bill.moor@nielsen.com,bill.moor@nielsen.com,,3385 Crestview Drive,,,,,,,,FALSE,enus
+jill.chen@nielsen.com,small,Jill,Chen,Outsource Rep,,,"nielsen",,555-0175,,,,jill.chen@nielsen.com,jill.chen@nielsen.com,,3385 Crestview Drive,,,,,,,,FALSE,enus
+simon.pearson@nielsen.com,small,Simon,Pearson,Sales Account Manager,,,"nielsen",,213-614-2172,,,,simon.pearson@nielsen.com,simon.pearson@nielsen.com,,3445 Tech Best Way,,,,,,,,FALSE,enus

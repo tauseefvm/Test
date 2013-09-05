@@ -1,0 +1,4 @@
+model,name,displayName,type,defaultValue,source,cardinality,group,fromMaster,projection
+core.contact,CustomerHealth,Customer Health,lookup,undetermined,,1,,N,N
+core.contact,Lastupdatedhealthdate,Last Updated Health Date,date,,,1,,N,N
+core.contact,Healthreasoncode,Health Reason Code,lookup,,,1,,N,N

@@ -1,0 +1,10 @@
+Grid Name,Subgrid Name,Attr. Type,Attr. Name,Column Display Name,Column Display Order,salesRep,salesAM,salesOpsRep,salesOpsAM,resellerRep,dataAnalyst,executive,sfdc,sysAdmin,distributorRep,channelPartnerAdmin
+Contact,,CORE,displayName,NAME,1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Contact,,CORE,contactType,CONTACT TYPE,2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Contact,,CORE,role,ROLE,3,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Contact,,Relation,company,ORGANIZATION,4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Contact,,CORE,CustomerHealth,Customer Health,5,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+Contact,,CORE,emailAddresses[primary],EMAIL,6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Contact,,CORE,externalIds.id,LOAD BATCH ID,7,N,N,N,N,N,Y,N,N,N,N,N
+Contact,,CORE,systemProperties.qRank,DATA QUALITY,8,N,N,N,N,N,Y,N,N,N,N,N
+

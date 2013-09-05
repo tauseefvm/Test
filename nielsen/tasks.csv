@@ -1,0 +1,1 @@
+LoadID,name,task type,description,status,priority,LoadID:Assignee,start date,end date,completion date,LoadID:Opportunity,LoadID:Persons:AssignedTo,LoadID:Persons:Requested By,Due Date,EXT:migrationTaskStatus,EXT:migrationClosedDate,LoadID:Persons:salesRep
