@@ -1,5 +1,5 @@
 
-var Permissions = function createPermissions() {
+vvar Permissions = function createPermissions() {
     var self = this;
     self.permissions = [];
     self.get = function() {
