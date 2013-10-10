@@ -19,7 +19,7 @@
             type: 'core.role.permission',
             condition: condition
         };
-        if (related) permission.relatedResourceAccess = related;
+        if (related) permission.relatedResourceAccess = related;//Test
         self.permissions.push(permission);
         return self;
     }
